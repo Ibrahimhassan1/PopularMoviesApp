@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/trailer_play_button_image_view"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:src="@drawable/play_button"/>
+    <TextView
+        android:id="@+id/trailer_title_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dummy_text"
+        android:textSize="@dimen/abc_text_size_medium_material"
+        android:layout_gravity="center_vertical"/>
+</LinearLayout>

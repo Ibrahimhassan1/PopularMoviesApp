@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_detail">Movie Detail</string>
+
+    <string name="dummy_text">Dummy Text</string>
+    <string name="pref_sort_key" >sort_pref_list</string>
+    <string name="pref_sort_default" >1</string>
+    <string name="network_not_available_message">No internet connection detected!</string>
+
+    <string name="trailers_section_title">Trailers</string>
+    <string name="trailer_loading_message">Retrieving movie trailers, please wait.</string>
+    <string name="add_to_favorite_title">Add to favourite</string>
+    <string name="pref_favorite_key" >pref_favorite_key</string>
+    <string name="remove_from_favorite" >Remove from favorite</string>
+    <string name="add_to_favorite" >Add to favorite</string>
+    <string name="title_activity_reviews">Reviews</string>
+    <string name="button_title_reviews">Show Reviews</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="title_activity_favorite">Favorite Movies</string>
+    <string name="title_activity_preferences">Settings</string>
+
+</resources>
